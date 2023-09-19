@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+
+#para:root{
+	background-color:rgb(135,206,235);
+}
+#para:first-child{
+	color:white;
+	background-color:black;
+}
